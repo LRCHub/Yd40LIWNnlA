@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "shining of star",
+  "base_artist": "くろくも",
+  "createdAt": "2026-03-02T07:28:01.225644Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shining of Your Soul",
+      "artist": "Scorpions",
+      "has_synced": false,
+      "path": "select/01_Shining_of_Your_Soul_Scorpions.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shining Of Your Soul",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/02_Shining_Of_Your_Soul_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Shining of Things",
+      "artist": "David Sylvian",
+      "has_synced": false,
+      "path": "select/03_The_Shining_of_Things_David_Sylvian.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shining Of Your Soul",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/04_Shining_Of_Your_Soul_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The shining of the sun",
+      "artist": "Fito Páez",
+      "has_synced": false,
+      "path": "select/05_The_shining_of_the_sun_Fito_Páez.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "shining of star",
+      "artist": "くろくも",
+      "has_synced": false,
+      "path": "select/pl_01_shining_of_star_くろくも.txt"
+    }
+  ]
+}
